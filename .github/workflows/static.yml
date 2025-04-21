@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ClearVision: Smart Glasses for Instant Eye Correction">
+    <meta name="keywords" content="smart glasses, eye correction, vision correction, wearable technology, ClearVision">
+    <meta name="author" content="ClearVision">
+    <title>ClearVision: Instant Eye Correction Glasses</title>
+    <link rel="stylesheet" href="style.css"> <!-- Optional if you have a CSS file -->
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="your-logo.png" alt="ClearVision Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-text">
+            <h1>ClearVision: Instant Eye Correction Glasses</h1>
+            <p>Experience perfect vision with our smart glasses that correct your sight in real-time.</p>
+            <a href="#contact" class="cta-button">Get Yours Now</a>
+        </div>
+        <img src="https://via.placeholder.com/800x400" alt="ClearVision Glasses" class="product-image">
+    </section>
+
+    <section id="about">
+        <h2>About ClearVision</h2>
+        <p>ClearVision is a revolutionary wearable technology that offers real-time eye correction. Our smart glasses adapt to your vision needs, providing crystal-clear sight with the latest in optical technology.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <h3>Instant Vision Correction</h3>
+            <p>ClearVision glasses adjust your lenses in real-time to ensure optimal vision at all times, no matter the distance.</p>
+        </div>
+        <div class="feature">
+            <h3>Comfortable and Stylish</h3>
+            <p>Designed to look and feel like regular eyeglasses, ClearVision provides both style and comfort with its lightweight frame.</p>
+        </div>
+        <div class="feature">
+            <h3>Seamless Integration</h3>
+            <p>Sync your ClearVision glasses with your mobile device to customize your vision settings and receive updates in real-time.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions? Want to place an order? Reach out to us today!</p>
+        <form>
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ClearVision. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
